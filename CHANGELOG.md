@@ -1,3 +1,6 @@
+## 1.2.1 2018-10-14
+- Replace Fixnum with Integer
+
 ## 1.2.0 2017-06-29
 - Special require option no longer needed for Bundler
 - Warnings fixes on JRuby
